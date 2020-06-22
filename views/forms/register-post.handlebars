@@ -1,0 +1,17 @@
+<div class="container">
+    <div class="row">
+        <center><h1>Cadastro de novas postagens</h1></center><br>
+    </div>
+    <br>
+    <form action="/create/post" method="post">
+        <div class="form-group">
+            <label for="title">Adicione um título a postagem:</label>
+            <input type="text" name="title" class="form-control" id="title" aria-describedby="emailHelp" placeholder="Digite aqui seu título para esta nova postagem" required>
+        </div>
+        <div class="form-group">
+            <label for="content">Adicione um conteúdo para a postagem:</label>
+            <textarea class="form-control" name="content" id="content" rows="3" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary btn-new-post">Cadastrar postagem</button>
+    </form>
+</div>
