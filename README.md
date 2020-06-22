@@ -16,7 +16,7 @@ Esse pequeno projeto consiste em um resultado da minha curva de aprendizagem em 
 
 ## VEJA ALGUMAS FOTOS DE COMO FICOU A INTERFACE DO PROJETO
 
-![Print 1 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/tree/master/new-posts/img-1.png)
+![Print 1 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/new-posts/img-1.png)
 ![Print 2 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/new-posts/img-2.png)
 ![Print 3 da aplicação](https://github.com/ericrodriguesfer/utilities-readme/blob/master/new-posts/img-3.png)
 
